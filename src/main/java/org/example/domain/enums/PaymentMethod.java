@@ -1,6 +1,6 @@
 package org.example.domain.enums;
 
-public enum MethodPayment {
+public enum PaymentMethod {
 
     PIX,
     BOLETO,
