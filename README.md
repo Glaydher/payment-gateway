@@ -55,7 +55,7 @@ POST /payments/ORDER123/refunds
 
 ## Tecnologias
 
-- Java 17
-- Spring Boot 3.2
+- Java 21
+- Spring Boot 3.5
 - Maven
 - JUnit 5
